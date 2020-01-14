@@ -11,3 +11,6 @@ Modificado Feature2 branch
 added feature 2
 
 Segundo cambio en el branch Feature2
+
+* Start a line with a star
+* Profit!
